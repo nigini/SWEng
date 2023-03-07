@@ -1,3 +1,7 @@
+BACK TO [CSE403 HOME](README.md)
+
+---
+
 |	Date	|	Topic	|	Materials	|	Assignments	|
 |	---		| 	---		|	---			|	---			|
 |**WEEK 1**												|
@@ -27,9 +31,9 @@
 |**WEEK 5**												|
 |	04/24	|	Build Systems	|		|		|
 |	04/25	|		|		|		|
-|	04/26	|	Testing + CI	|		|		|
+|	04/26	|	Testing	|		|		|
 |	04/27	|		|		|		|
-|	04/28	|	Code Review	|		|		|
+|	04/28	|	CI/CD	|		|		|
 |**WEEK 6**												|
 |	05/01	|	Test Coverage	|		|		|
 |	05/02	|		|		|		|
@@ -43,20 +47,24 @@
 |	05/11	|		|		|		|
 |	05/12	|	EXER: Testing	|		|		|
 |**WEEK 8**												|
-|	05/15	|	Debugging	|		|		|
+|	05/15	|	Code Review	|		|		|
 |	05/16	|		|		|		|
-|	05/17	|	EXE: Debbuging	|		|		|
+|	05/17	|	Debugging	|		|		|
 |	05/18	|		|		|		|
-|	05/19	|	Program Analysis	|		|		|
+|	05/19	|	EXE: Debbuging	|		|		|
 |**WEEK 9**												|
-|	05/22	|	Fault Location	|		|		|
+|	05/22	|	Hack Day	|		|		|
 |	05/23	|		|		|		|
-|	05/24	|	EXER: Fault Location	|		|		|
+|	05/24	|	Fault Location	|		|		|
 |	05/25	|		|		|		|
-|	05/26	|	TBD	|		|		|
+|	05/26	|	EXER: Fault Location	|		|		|
 |**WEEK 10**											|
-|	05/29	|	MEM-DAY	|		|		|
+|	05/29	|	(NO-CLASS) MEM-DAY	|		|		|
 |	05/30	|		|		|		|
-|	05/31	|	Hack Day	|		|		|
+|	05/31	|	Program Analysis	|		|		|
 |	06/01	|		|		|		|
-|	06/02	|	Hack Day	|		|		|
+|	06/02	|	Extra Cred EXE: PA!	|		|		|
+
+---
+
+BACK TO [CSE403 HOME](README.md)

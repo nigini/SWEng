@@ -1,3 +1,7 @@
+BACK TO [CSE403 HOME](README.md)
+
+---
+
 # Syllabus
 
 ## Course description
@@ -39,3 +43,7 @@ Grades will be based on a group project, in-class exercises, assignments, and pa
 Assignments must be submitted on Canvas by the due date and time. Unless otherwise noted, all times are given in PDT (Pacific Time). The submission site remains open for 24 hours after the deadline. Assignments submitted within 24 hours after the deadline will incur a 20% penalty. Assignments will not be accepted after the submission site is closed.
 
 You can find the general course policies here.
+
+---
+
+BACK TO [CSE403 HOME](README.md)
