@@ -30,6 +30,6 @@ Please check HERE how we use the following channels:
 
 ## COURSE DETAILS
 
-- [Syllabus](.syllabus.md)
-- [Project](.project.md)
-- [Calendar](.calendar.md)
+- [Syllabus](./syllabus.md)
+- [Project](./project.md)
+- [Calendar](./calendar.md)
