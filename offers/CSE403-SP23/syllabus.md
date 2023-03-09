@@ -38,11 +38,11 @@ Grades will be based on a group project, in-class exercises, assignments, and pa
     35%: In-class exercises and assignments
     10%: Participation
 
-## Late policy
+## Policies
 
 Assignments must be submitted on Canvas by the due date and time. Unless otherwise noted, all times are given in PDT (Pacific Time). The submission site remains open for 24 hours after the deadline. Assignments submitted within 24 hours after the deadline will incur a 20% penalty. Assignments will not be accepted after the submission site is closed.
 
-You can find the general course policies here.
+You can find the general [course policies here](./policies.md).
 
 ---
 
