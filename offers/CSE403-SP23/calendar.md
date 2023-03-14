@@ -1,3 +1,6 @@
+---
+---
+
 BACK TO [CSE403 HOME](README.md)
 
 ---
@@ -26,7 +29,7 @@ BACK TO [CSE403 HOME](README.md)
 |	---		| 	---		    	|	---			|	---			|
 |**WEEK 3**												|
 |	04/10	|	L: SCRUM		|		|		|
-|	04/11	|	T:		|		|	DUE: PR!!!	|
+|	04/11	|	T:		|		|	DUE: [PR!!!]({{ canvas-assig-pr }})	|
 |	04/12	|	L: Version Control	|		|		|
 |	04/13	|	P: 		|			|		|
 |	04/14	|	LX: GIT			|		|		|

@@ -14,10 +14,10 @@ Let's get this out of the way: **What is Software Engineering?**
 2. The way we will kind of see it here: a set of principles to design, develop, maintain, test, and evaluate computer software.
 3. Also: A whole research field that study what such principles are and what tools can support to deliver better software.
 
-**INFO:** If you are a Husky (UW student) taking the **Sping 2023 offer of CSE403**, check out our [Syllabus HERE!](offers/CSE403-SP23/syllabus.md)
-
 ---
 
 ## Material
 
 *ToDo!*
+
+**INFO:** If you are a Husky (UW student) taking the **Sping 2023 offer of CSE403**, check out our [Homepage HERE!](offers/CSE403-SP23/README.md)
