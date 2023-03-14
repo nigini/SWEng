@@ -12,14 +12,14 @@ BACK TO [CSE403 HOME](README.md)
 |	---		| 	---		    	|	---			|	---			|
 |**WEEK 1**												|
 |	03/27	|	L: Intro		|		|		|
-|	03/28	|	--				|		|		|
+|	03/28	|	T: Peers meetup	|		|		|
 |	03/29	|	L: Projects 	|		|	[Project Proposal (PP)](../../project/01_project_proposal.md)	|
 |	03/30	|	P: Proposals	|		|		|
 |	03/31	|	L: Joel-Test	|		|		|
 |	---		| 	---		    	|	---			|	---			|
 |**WEEK 2**												|
-|	04/03	|	L: Dev. Cycle	|		|	DUE: [PP_1.1!!!](https://canvas.uw.edu/courses/1633262/assignments/8171250)	|
-|	04/04	|	T: Proposals	|		|	DUE: PP_1.2!!!	|
+|	04/03	|	L: Dev. Cycle	|		|	DUE: [PP_1.1!!!]({{ canvas-assig-pp11 }})	|
+|	04/04	|	T: Proposals	|		|	DUE: [PP_1.2!!!]({{ canvas-assig-pp12 }})	|
 |	04/05	|	L: Requirements	|		|	[Project Requirements (PR)](../../project/02_project_requirements.md)	|
 |	04/06	|	P: Requirements	|		|		|
 |	04/07	|	L: Use-Cases	|		|		|

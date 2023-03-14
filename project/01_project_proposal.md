@@ -39,13 +39,14 @@ You’ll be assigned to a random group of two students via Canvas.
    - Save your slidedeck as a PDF file named **ProjectName_LastName1_LastName2-SLIDES.pdf**.
 
 
-**3. Submit your proposal**
+**3. Submit your proposal (ATTENTION: Complicated 3-steps submission!)**
 
 *DEADLINE: First thing on secong week (check calendar)*
-   - Zip your two PDF files (proposal document and slide deck) into a file named **ProjectName_LastName1_LastName2.zip** and upload it to Canvas with the *link to your YouTube presentation in a comment to your Canvas submission*.
-   - Write an abstract of at most 3 sentences that states the goal, approach, and technology of your project.
-   - Fill out a form that populates the project proposals spreadsheet, visible to the entire class.
-   - Submit your project’s title, video link, and abstract, plus the names of both team members to [THIS FORM](https://forms.gle/Cp6KsbLVNy5QmpiF9) the deadline in your course calendar.
+
+   1. TEAM: Zip your two PDF files (proposal document and slide deck) into a file named **ProjectName_LastName1_LastName2.zip** and upload it to the PP1.1 Canvas assignment with the *link to your YouTube presentation in a comment to your Canvas submission*.
+   2. INDIVIDUALLY, submit the name of your project proposal in the [PP1.2 assignment](https://canvas.uw.edu/courses/1633262/assignments/8171377) (this will only trigger the peer-review assignment.)
+   3. 1. Write an abstract of at most 3 sentences that states the goal, approach, and technology of your project.
+      2. Submit your project’s title, video link, and abstract, plus the names of both team members to [THIS FORM](https://forms.gle/Cp6KsbLVNy5QmpiF9) (this populates the project proposals spreadsheet, visible to the entire class and used bellow.).
 
 
 ### JOB 2 (Review Proposals)
@@ -54,10 +55,10 @@ You’ll be assigned to a random group of two students via Canvas.
 
 **4. Peer-review assigned project proposals**
 
-   - 
+   - Go to the [PP1.2 Canvas assignment](https://canvas.uw.edu/courses/1633262/assignments/8171377) and review the projects that were randomly assigned to you using the provided rubric.
 
 
-**5. Consider other project proposals and fill out a survey form**
+**5. Consider other project proposals and fill out a survey with you preferences**
 
    - Scan through the list of project ideas and abstracts in the [project proposals spreadsheet](https://docs.google.com/spreadsheets/d/1TwdeEw8cHM9AzTctABmiBSfZNVB8J-HyGhdnBkvV94U/).
    - Choose and watch at least 5 project proposal videos. 
