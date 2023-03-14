@@ -2,8 +2,7 @@ BACK TO [CSE403 HOME](README.md)
 
 ---
 
-CSE 403 Course project
-======================
+# Course project
 
 The course project will provide you with hands-on software engineering
 experience, involving a team of **4-6 students**.
@@ -32,8 +31,7 @@ confusing, and with installing and using new software. These are skills that
 will stand you in good stead, no matter where your career takes you.
 
 
-Expected and Optional Revisions
--------------------------------
+## Expected and Optional Revisions
 
 ### Expected Revisions
 _Expected Revisions_ represent project-specific change requests for issues that
@@ -64,8 +62,7 @@ added to the previous assignment's score.
   for optional revisions include missing, incomplete, or vague content.
 
 
-Weekly status reports
----------------------
+## Weekly status reports
 
 Weekly status reports help to plan and reflect on tasks, and keep the staff and
 yourselves informed about your progress.
@@ -103,8 +100,7 @@ your reports in your project repository, in which case you should (in your repo
 documentation and every other respect) pretend that these reports do not exist.
 
 
-Weekly team meetings
---------------------
+## Weekly team meetings
 
 Your team will meet at least once a week to discuss progress and issues, and/or
 work together. We have reserved Tuesday sections for this purpose. You can meet
@@ -113,8 +109,7 @@ more than once per week and collaboratively write notes and define concrete
 action items.**
 
 
-Weekly project meetings
------------------------
+## Weekly project meetings
 
 You will meet with a TA for 15-20 minutes during section on Thursday (or at
 another mutually agreed time). You may schedule additional meetings or use your
@@ -136,8 +131,7 @@ conflicts from your manager. Instead, use your manager (TA) as a resource to
 help solve those issues.
 
 
-Requirements
-------------
+## Requirements
 
 ### GitHub
 

@@ -11,10 +11,13 @@
 
 ## Setup
 
-You’ll be assigned to a random group of two students via canvas.
+You’ll be assigned to a random group of two students via Canvas.
 
 
-## Deatailed Instructions
+## Detailed Instructions
+
+
+### JOB 1 (Create Proposal)
 
 **1. Write a 1-2 page proposal document (PDF)**
 
@@ -36,30 +39,27 @@ You’ll be assigned to a random group of two students via canvas.
    - Save your slidedeck as a PDF file named **ProjectName_LastName1_LastName2-SLIDES.pdf**.
 
 
-    Why don't we just have two entries? Wouldn't that be easier to review as a TA?
-    ???? Zip your two PDF files (proposal document and slide deck) into a file named [project idea]_[last name]_[last name].zip. (4) Submit your zip archive to canvas and make a submission comment in canvas with the link to your youtube upload by 01/09 EOD. ????
-
-
 **3. Submit your proposal**
 
-*DEADLINE: By the end of the first week (check calendar)*
-
+*DEADLINE: First thing on secong week (check calendar)*
+   - Zip your two PDF files (proposal document and slide deck) into a file named **ProjectName_LastName1_LastName2.zip** and upload it to Canvas with the *link to your YouTube presentation in a comment to your Canvas submission*.
    - Write an abstract of at most 3 sentences that states the goal, approach, and technology of your project.
    - Fill out a form that populates the project proposals spreadsheet, visible to the entire class.
-   - Submit your project’s title, video link, and abstract, plus the names of both team members to THIS FORM the deadline in your course calendar.
+   - Submit your project’s title, video link, and abstract, plus the names of both team members to [THIS FORM](https://forms.gle/Cp6KsbLVNy5QmpiF9) the deadline in your course calendar.
+
+
+### JOB 2 (Review Proposals)
+
+*DEADLINE: Mid-second week (check calendar)*
 
 **4. Peer-review assigned project proposals**
 
-*DEADLINE: First thing on second week (check calendar)*
-
-  !!! TODO !!!
+   - 
 
 
 **5. Consider other project proposals and fill out a survey form**
 
-*DEADLINE: Mid-second week (check calendar)*
-
-   - Scan through the list of project ideas and abstracts in the project proposals spreadsheet.
+   - Scan through the list of project ideas and abstracts in the [project proposals spreadsheet](https://docs.google.com/spreadsheets/d/1TwdeEw8cHM9AzTctABmiBSfZNVB8J-HyGhdnBkvV94U/).
    - Choose and watch at least 5 project proposal videos. 
    - Optionally, reach out to other members of the class over Slack for clarifications and/or to self-organize into a group.
    - Fill out and submit THIS FORM of project and team preferences.
