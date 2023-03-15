@@ -49,7 +49,7 @@ Submit a PDF snapshot of your living document named **ProjectName-m5.pdf** to Ca
 
 ## Clarifications
 
-*What are some commonly used CI services?*
+### What are some commonly used CI services?
 
 Here are four examples for commonly used CI services:
 
@@ -64,7 +64,8 @@ Here are four examples for commonly used CI services:
 There are other options, so make sure to do sufficient research to make an
 informed decision for your project.
 
-*What do you mean by "the link between the CI service and our repo"?*
+
+### What do you mean by "the link between the CI service and our repo"?
 
 You should describe how the CI service is integrated into your repository and
 how it is configured (e.g., how does the CI service access your repository and
@@ -72,7 +73,8 @@ how are the triggers that you identified configured?). Your description should
 enable others to reproduce the steps that were required to set up CI for your
 project and to configure the CI service.
 
-*Any grading hints for this type of assignment?*
+
+### Any grading hints for this type of assignment?
 
 Part of your grade will come from the **plausibility and thoughtfulness of your
 test plan**.
