@@ -5,7 +5,7 @@
 
   1. Develop an exciting product idea with a team partner. As you develop your idea, think about the customer’s point of view and consider the feasibility and novelty of your product. 
   2. Present your idea with your team partner to the class.
-  3. !!! NEW: **Peer-review the project entries assigned to you** (Needs an explanation section) !!!
+  3. Peer-review the project entries assigned to you.
   4. View other groups’ proposals and rank them (including your own) by which project you would prefer to work on.
   5. The staff will use these rankings to organize project teams (taking into account project and team-member preferences).
 
@@ -44,7 +44,7 @@ You’ll be assigned to a random group of two students via Canvas.
 *DEADLINE: First thing on secong week (check calendar)*
 
    1. TEAM: Zip your two PDF files (proposal document and slide deck) into a file named **ProjectName_LastName1_LastName2.zip** and upload it to the PP1.1 Canvas assignment with the *link to your YouTube presentation in a comment to your Canvas submission*.
-   2. INDIVIDUALLY, submit the name of your project proposal in the [PP1.2 assignment](https://canvas.uw.edu/courses/1633262/assignments/8171377) (this will only trigger the peer-review assignment.)
+   2. INDIVIDUALLY, submit the name of your project proposal in the Canvas **PP1.2 assignment** (this will only trigger the peer-review assignment.)
    3. 1. Write an abstract of at most 3 sentences that states the goal, approach, and technology of your project.
       2. Submit your project’s title, video link, and abstract, plus the names of both team members to [THIS FORM](https://forms.gle/Cp6KsbLVNy5QmpiF9) (this populates the project proposals spreadsheet, visible to the entire class and used bellow.).
 
@@ -55,7 +55,7 @@ You’ll be assigned to a random group of two students via Canvas.
 
 **4. Peer-review assigned project proposals**
 
-   - Go to the [PP1.2 Canvas assignment](https://canvas.uw.edu/courses/1633262/assignments/8171377) and review the projects that were randomly assigned to you using the provided rubric.
+   - Go to the **PP1.2 Canvas assignment** and review the projects that were randomly assigned to you using the provided rubric.
 
 
 **5. Consider other project proposals and fill out a survey with you preferences**
