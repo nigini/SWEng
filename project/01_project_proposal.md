@@ -27,7 +27,7 @@ You’ll be assigned to a random group of two students via Canvas.
    - Discuss your vision and a competitive analysis: explain what makes your idea different.
    - Discuss your proposed technical approach: explain what system architecture, technologies, and tools you may use.
    - Highlight the single most serious challenge or risk you foresee with developing your project on time. How will you minimize or mitigate the risk? Don’t state generic risks that would be equally applicable to any project.
-   - Name your PDF **ProjectName_LastName1_LastName2-PROPOSAL.pdf**.pdf.
+   - Name your PDF **ProjectName_LastName1_LastName2-PROPOSAL.pdf**.
 
 
 **2. Record a 2-3 minute slideshow presentation**
@@ -41,12 +41,12 @@ You’ll be assigned to a random group of two students via Canvas.
 
 **3. Submit your proposal (ATTENTION: Complicated 3-steps submission!)**
 
-*DEADLINE: First thing on secong week (check calendar)*
+*DEADLINE: First thing on second week (check calendar)*
 
    1. TEAM: Zip your two PDF files (proposal document and slide deck) into a file named **ProjectName_LastName1_LastName2.zip** and upload it to the PP1.1 Canvas assignment with the *link to your YouTube presentation in a comment to your Canvas submission*.
    2. INDIVIDUALLY, submit the name of your project proposal in the Canvas **PP1.2 assignment** (this will only trigger the peer-review assignment.)
    3. 1. Write an abstract of at most 3 sentences that states the goal, approach, and technology of your project.
-      2. Submit your project’s title, video link, and abstract, plus the names of both team members to [THIS FORM](https://forms.gle/Cp6KsbLVNy5QmpiF9) (this populates the project proposals spreadsheet, visible to the entire class and used bellow.).
+      2. Submit your project’s title, video link, and abstract, plus the names of both team members to [THIS FORM](https://forms.gle/Cp6KsbLVNy5QmpiF9). (This populates the project proposals spreadsheet, visible to the entire class and used bellow.)
 
 
 ### JOB 2 (Review Proposals)
