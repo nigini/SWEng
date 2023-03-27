@@ -11,7 +11,7 @@ BACK TO [CSE403 HOME](README.md)
 |	Date	|	Topic	    	|	Materials	|	Assignments	|
 |	---		| 	---		    	|	---			|	---			|
 |**WEEK 1**												|
-|	03/27	|	L: Intro		|		|		|
+|	03/27	|	L: Intro		|	[SLIDES](material/1-Course_Intro.pdf)	|	[READ](https://ethics.acm.org/code-of-ethics/software-engineering-code/) |
 |	03/28	|	T: Peers meetup	|		|		|
 |	03/29	|	L: Projects 	|		|	[Project Proposal (PP)](../../project/01_project_proposal.md)	|
 |	03/30	|	P: Proposals	|		|		|

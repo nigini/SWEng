@@ -11,12 +11,12 @@ The Spring 2023 offer will start on **Mar 27th** and will end on **Jun 2nd**
 
 ## STAFF
 
-    Instructor: Nigini Oliveira (nigini(at)cs.washington.edu; OH: after class and by appointment)
-    TA: Reshabh K Sharma (reshabh(at)cs.washington.edu; OH: by appointment)
-    TA: Vinay Reddy Varadha Pally (vpally@uw.edu; OH: by appointment)
-    TA: Sahil Verma (vsahil@cs.washington.edu; OH: by appointment)
-    TA: Mingyuan Zhong (myzhong@cs.washington.edu; OH: by appointment)
-    TA: Apollo Zhu (zhuzhiyu@cs.washington.edu; OH: by appointment)
+  - Instructor: Nigini Oliveira (nigini (at) cs; OH: after class and [by appointment](https://calendar.app.google/Zpgck75ykqmkjQnYA))
+  - TA: Reshabh K Sharma (reshabh (at) cs; OH: by appointment)
+  - TA: Vinay Reddy Varadha Pally (vpally (at) uw; OH: by appointment)
+  - TA: Sahil Verma (vsahil (at) cs; OH: by appointment)
+  - TA: Mingyuan Zhong (myzhong (at) cs; OH: by appointment)
+  - TA: Apollo Zhu (zhuzhiyu (at) cs; OH: by appointment)
 
 
 ## COMMUNICATION
