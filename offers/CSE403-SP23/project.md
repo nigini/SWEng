@@ -2,7 +2,8 @@ BACK TO [CSE403 HOME](README.md)
 
 ---
 
-# Course project
+# Course project: Overview
+
 
 The course project will provide you with hands-on software engineering
 experience, involving a team of **4-6 students**.
@@ -94,13 +95,12 @@ paragraph or organized as bullet points.
 
 
 ### Submission
-All **weekly status reports must be committed to a git repository**, which should
-contain a top-level directory called *reports*. For convenience, you may include
-your reports in your project repository, in which case you should (in your repo
-documentation and every other respect) pretend that these reports do not exist.
+All **weekly status reports must be committed to your project git repository**, 
+inside a top-level directory called *reports*.
 
 
-## Weekly team meetings
+Weekly team meetings
+--------------------
 
 Your team will meet at least once a week to discuss progress and issues, and/or
 work together. We have reserved Tuesday sections for this purpose. You can meet
@@ -109,7 +109,8 @@ more than once per week and collaboratively write notes and define concrete
 action items.**
 
 
-## Weekly project meetings
+Weekly project meetings
+-----------------------
 
 You will meet with a TA for 15-20 minutes during section on Thursday (or at
 another mutually agreed time). You may schedule additional meetings or use your
@@ -154,7 +155,8 @@ files. Here is a good summary of the markdown syntax:
 
 ### Team org, artifacts, and communication policies
 
-We require that you create and maintain a file that includes:
+We require that you create and maintain a file named `ORG.md` (at the top level of your repository) 
+that includes:
 
 - each team member's role in the project.
 
