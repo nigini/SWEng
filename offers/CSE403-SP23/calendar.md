@@ -11,9 +11,9 @@ BACK TO [CSE403 HOME](README.md)
 |	Date	|	Topic	    	|	Materials	|	Assignments	|
 |	---		| 	---		    	|	---			|	---			|
 |**WEEK 1**												|
-|	03/27	|	L: Intro		|	[SLIDES](material/1-Course_Intro.pdf)	|	[READ](https://ethics.acm.org/code-of-ethics/software-engineering-code/) |
+|	03/27	|	L: Intro		|	[SLIDES](material/1-Course_Intro.pdf)/[REC](https://canvas.uw.edu/files/104229052/)	|	[READ](https://ethics.acm.org/code-of-ethics/software-engineering-code/) |
 |	03/28	|	T: Peers meetup	|		|		|
-|	03/29	|	L: Projects 	|		|	[Project Proposal (PP)](../../project/01_project_proposal.md)	|
+|	03/29	|	L: Projects 	|	[SLIDES](material/2-TheProject.pdf)/[REC](https://canvas.uw.edu/files/104342875/)	|	[Project Proposal (PP)](../../project/01_project_proposal.md)	|
 |	03/30	|	P: Proposals	|		|		|
 |	03/31	|	L: Joel-Test	|		|		|
 |	---		| 	---		    	|	---			|	---			|
