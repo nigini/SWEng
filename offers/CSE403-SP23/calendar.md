@@ -15,7 +15,7 @@ BACK TO [CSE403 HOME](README.md)
 |	03/28	|	T: Peers meetup	|		|		|
 |	03/29	|	L: Projects 	|	[SLIDES](material/2-TheProject.pdf)/[REC](https://canvas.uw.edu/files/104342875/)	|	[Project Proposal (PP)](../../project/01_project_proposal.md)	|
 |	03/30	|	P: Proposals	|		|		|
-|	03/31	|	L: Joel-Test	|		|		|
+|	03/31	|	L: Joel-Test	|	[SLIDES](material/3-JoelTest.pdf)	|		|
 |	---		| 	---		    	|	---			|	---			|
 |**WEEK 2**												|
 |	04/03	|	L: Dev. Cycle	|		|	DUE: [PP_1.1!!!](https://canvas.uw.edu/courses/1633262/assignments/8171250)	|
