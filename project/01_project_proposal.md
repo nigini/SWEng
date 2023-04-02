@@ -39,12 +39,13 @@ You’ll be assigned to a random group of two students via Canvas.
    - Save your slidedeck as a PDF file named **ProjectName_LastName1_LastName2-SLIDES.pdf**.
 
 
-**3. Submit your proposal (ATTENTION: Complicated 3-steps submission!)**
+**3. Submit your proposal**
 
 *DEADLINE: First thing on second week (check calendar)*
 
    1. TEAM: Zip your two PDF files (proposal document and slide deck) into a file named **ProjectName_LastName1_LastName2.zip** and upload it to the PP1.1 Canvas assignment with the *link to your YouTube presentation in a comment to your Canvas submission*.
-   2. INDIVIDUALLY, submit the name of your project proposal in the Canvas **PP1.2 assignment** (this will only trigger the peer-review assignment.)
+   2. INDIVIDUALLY: YOU DON'T HAVE TO DO THIS ANYMORE!!!
+      <strike>submit the name of your project proposal in the Canvas **PP1.2 assignment** (this will only trigger the peer-review assignment.)</strike>
    3. 1. Write an abstract of at most 3 sentences that states the goal, approach, and technology of your project.
       2. Submit your project’s title, video link, and abstract, plus the names of both team members to [THIS FORM](https://forms.gle/Cp6KsbLVNy5QmpiF9). (This populates the project proposals spreadsheet, visible to the entire class and used bellow.)
 
