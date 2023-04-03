@@ -18,7 +18,7 @@ BACK TO [CSE403 HOME](README.md)
 |	03/31	|	L: Joel-Test	|	[SLIDES](material/3-JoelTest.pdf)/[REC](https://canvas.uw.edu/files/104436108/)	|		|
 |	---		| 	---		    	|	---			|	---			|
 |**WEEK 2**												|
-|	04/03	|	L: Dev. Cycle	|		|	DUE: [PP_1.1!!!](https://canvas.uw.edu/courses/1633262/assignments/8171250)	|
+|	04/03	|	L: Dev. Cycle	|	[SLIDES](material/4-SDLC.pdf)	|	DUE: [PP_1.1!!!](https://canvas.uw.edu/courses/1633262/assignments/8171250)	|
 |	04/04	|	T: Proposals	|		|	DUE: [PP_1.2!!!](https://canvas.uw.edu/courses/1633262/assignments/8171377)	|
 |	04/05	|	L: Requirements	|		|	[Project Requirements (PR)](../../project/02_project_requirements.md)	|
 |	04/06	|	P: Requirements	|		|		|
