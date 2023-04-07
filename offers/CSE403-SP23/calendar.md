@@ -22,7 +22,7 @@ BACK TO [CSE403 HOME](README.md)
 |	04/04	|	T: Proposals	|		|
 |	04/05	|	L: Requirements	|	[SLIDES](material/5-Requirements.pdf)/[REC](https://canvas.uw.edu/files/104637504/) | DUE: [PP_1.2!!!](https://canvas.uw.edu/courses/1633262/assignments/8171377)	|	[Project Requirements (PR)](../../project/02_project_requirements.md)	|
 |	04/06	|	P: Requirements	|		|		|
-|	04/07	|	L: Use-Cases	|		|		|
+|	04/07	|	L: Use-Cases	|	[SLIDES](material/6-UseCases.pdf)		|		|
 |	---		| 	---		    	|	---			|	---			|
 |**WEEK 3**												|
 |	04/10	|	L: SCRUM		|		|		|
