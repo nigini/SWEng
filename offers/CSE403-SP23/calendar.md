@@ -25,7 +25,7 @@ BACK TO [CSE403 HOME](README.md)
 |	04/07	|	L: Use-Cases	|	[SLIDES](material/6-UseCases.pdf)/[REC](https://canvas.uw.edu/files/104730698/)		|		|
 |	---		| 	---		    	|	---			|	---			|
 |**WEEK 3**												|
-|	04/10	|	L: SCRUM		|		|		|
+|	04/10	|	L: SCRUM  |	[SLIDES](material/7-Scrum.pdf)	|		|
 |	04/11	|	T:		|		|	DUE: [PR!!!](https://canvas.uw.edu/courses/1633262/assignments/8173719)	|
 |	04/12	|	L: Version Control	|		|	[GitHub Project Setup (GPS)](../../project/03_project_github_setup.md)	|
 |	04/13	|	P: 		|			|		|
