@@ -27,7 +27,7 @@ BACK TO [CSE403 HOME](README.md)
 |**WEEK 3**												|
 |	04/10	|	L: SCRUM  |	[SLIDES](material/7-Scrum.pdf)/[REC](https://canvas.uw.edu/files/104872513/)	|		|
 |	04/11	|	T: Requirements	|		|	DUE: [PR!!!](https://canvas.uw.edu/courses/1633262/assignments/8173719)	|
-|	04/12	|	L: Version Control |	[SLIDES](material/8-VersionControl.pdf)	|	[GitHub Project Setup (GPS)](../../project/03_project_github_setup.md)	|
+|	04/12	|	L: Version Control |	[SLIDES](material/8-VersionControl.pdf)/[REC](https://canvas.uw.edu/files/104933832/)	|	[GitHub Project Setup (GPS)](../../project/03_project_github_setup.md)	|
 |	04/13	|	P: 	|			|		|
 |	04/14	|	LX: GIT			|		|		|
 |	---		| 	---		    	|	---			|	---			|
