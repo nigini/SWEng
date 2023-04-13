@@ -31,5 +31,5 @@ Please check HERE how we use the following channels:
 ## COURSE DETAILS
 
 - [Syllabus](./syllabus.md)
-- [Project](./project.md)
+- [Project](./project.md) - [Teams](./teams.md)
 - [Calendar](./calendar.md)
