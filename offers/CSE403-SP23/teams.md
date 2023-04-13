@@ -55,7 +55,7 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 ## Yadi's Nonexistent Project
 
-This is the description for my (Yadi's) nonexistent project
+This is the description for my (Yadi's) nonexistent project.
 Our code can be found on [GitHub](https://github.com/yadiw/blabla)!
 
 ### Who we are
