@@ -53,19 +53,6 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 ## WorkoutHolic
 
-## Yadi's Nonexistent Project
-
-This is the description for my (Yadi's) nonexistent project.
-Our code can be found on [GitHub](https://github.com/yadiw/blabla)!
-
-### Who we are
-
-  - [Nigini Oliveira](https://nigini.me)
-  - Yadi Wang
-  - [Member name 3](https://myhomepage.me)
-  - [Member name 4](https://myhomepage.me)
-  - [Member name 5](https://myhomepage.me)
-
 ---
 
 BACK TO [CSE403 HOME](README.md)
