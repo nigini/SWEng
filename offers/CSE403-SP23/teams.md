@@ -53,6 +53,18 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 ## WorkoutHolic
 
+## Yadi's Nonexistent Project
+
+This is the description for my (Yadi's) nonexistent project
+Our code can be found on [GitHub](https://github.com/yadiw/blabla)!
+
+### Who we are
+
+  - [Member name 1](https://myhomepage.me)
+  - [Member name 2](https://myhomepage.me)
+  - [Member name 3](https://myhomepage.me)
+  - [Member name 4](https://myhomepage.me)
+  - [Member name 5](https://myhomepage.me)
 
 ---
 
