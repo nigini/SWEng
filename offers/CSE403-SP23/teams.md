@@ -61,7 +61,7 @@ Our code can be found on [GitHub](https://github.com/yadiw/blabla)!
 ### Who we are
 
   - [Nigini Oliveira](https://nigini.me)
-  - [Member name 2](https://myhomepage.me)
+  - Yadi Wang
   - [Member name 3](https://myhomepage.me)
   - [Member name 4](https://myhomepage.me)
   - [Member name 5](https://myhomepage.me)
