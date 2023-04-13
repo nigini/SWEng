@@ -60,7 +60,7 @@ Our code can be found on [GitHub](https://github.com/yadiw/blabla)!
 
 ### Who we are
 
-  - [Member name 1](https://myhomepage.me)
+  - [Nigini Oliveira](https://nigini.me)
   - [Member name 2](https://myhomepage.me)
   - [Member name 3](https://myhomepage.me)
   - [Member name 4](https://myhomepage.me)
