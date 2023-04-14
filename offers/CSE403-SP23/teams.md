@@ -17,6 +17,7 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
   - [Member name 2](https://myhomepage.me)
   - [Member name 3](https://myhomepage.me)
   - [Member name 4](https://myhomepage.me)
+  - [Member name 5](https://myhomepage.me)
 
 **--- MODEL ---**
 
@@ -59,7 +60,7 @@ Our code can be found on [GitHub](https://github.com/Zanderthegreat12/UW-Roomie)
 
 ### Who we are
 
-  - [Member name 1](https://myhomepage.me)
+  - Colby Smith
   - [Member name 2](https://myhomepage.me)
   - Bella McQuade
   - [Member name 4](https://myhomepage.me)
