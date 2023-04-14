@@ -43,7 +43,7 @@ Our code can be found on [GitHub]: https://github.com/asagrekin/GamesInOne!
   - [Asa Grekin](https://www.linkedin.com/in/asagrekin/)
   - [Kelby Steinmetz](https://www.linkedin.com/in/kelbys2/)
   - [Steven Lok](https://www.linkedin.com/in/steven-lok/)
-  - [Member name 4](https://myhomepage.me)
+  - [Leonardo Ochoa](https://www.linkedin.com/in/leonardo-ochoa-)
   - [Member name 5](https://myhomepage.me)
 ## Idea Factory
 
