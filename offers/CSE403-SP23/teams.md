@@ -45,6 +45,7 @@ Our code can be found on [GitHub](https://github.com/randofan/MyCalendar)!
 
   - [Saket Gollapudi](https://github.com/saket1214)
   - [David Song](http://davsong.com)
+  - [Trinity Cho](https://github.com/uwthcho)
 
 ## PathKit
 
