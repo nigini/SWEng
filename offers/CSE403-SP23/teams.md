@@ -38,6 +38,12 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 ## Idea Factory
 
 ## MyCalendar
+This is the one phrase that describes your project the best!
+Our code can be found on [GitHub](https://github.com/randofan/MyCalendar)!
+
+### Who we are
+
+  - [Saket Gollapudi](https://github.com/saket1214)
 
 ## PathKit
 
