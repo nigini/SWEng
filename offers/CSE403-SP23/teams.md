@@ -29,6 +29,17 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 ## DormWiki
 
+DormWiki is a website designed to inform prospective/incoming students about various dorms on campus. It will summarize all the information students need to know about the dorm, helping them find the one that most suits their needs. The website also will help current students stay updated about events happening at their dorms, fostering a sense of community and belonging.
+
+### Who we are
+
+  - Jaylyn Zhang
+  - [Member name 2](https://myhomepage.me)
+  - [Member name 3](https://myhomepage.me)
+  - [Member name 4](https://myhomepage.me)
+  - [Member name 5](https://myhomepage.me)
+
+
 ## DubSpot
 
 ## DuoCode
