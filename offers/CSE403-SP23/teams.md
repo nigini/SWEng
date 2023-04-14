@@ -13,7 +13,7 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 ### Who we are
 
-  - [Foad Shariat](https://myhomepage.me)
+  - [Foad Shariat](https://github.com/foadshariat7)
   - [Member name 2](https://myhomepage.me)
   - [Member name 3](https://myhomepage.me)
   - [Member name 4](https://myhomepage.me)
