@@ -16,7 +16,7 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
   - [Member name 1](https://myhomepage.me)
   - [Member name 2](https://myhomepage.me)
   - [Member name 3](https://myhomepage.me)
-  - [Pahn Yenbut]
+  - [Member name 4](https://myhomepage.me)
   - [Member name 5](https://myhomepage.me)
 
 **--- MODEL ---**
@@ -31,7 +31,7 @@ Our code can be found on [GitHub](https://github.com/hmxxu/beatbuddy)!
 ### Who we are
 
   - [Jonathan Ly](https://jly02.github.io)
-  - [Member name 2](https://myhomepage.me)
+  - [HaoMing Xu](https://hmxxu.github.io)
   - [Member name 3](https://myhomepage.me)
   - [Member name 4](https://myhomepage.me)
   - [Member name 5](https://myhomepage.me)
