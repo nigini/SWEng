@@ -54,7 +54,7 @@ Our code can be found on [GitHub](https://github.com/aldenhinden/ReWrite)!
 ### Who we are
 
   - [Alden Hinden](https://github.com/aldenhinden/)
-  - .
+  - [John Li](https://github.com/johnli01/)
   - .
   - .
 
