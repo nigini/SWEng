@@ -48,6 +48,17 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 ## Region Attack
 
 ## ReWrite
+A simple Website that allows for users to input a URL to a complex research paper and receive as output an organized summary of the content.
+Our code can be found on [GitHub](https://github.com/aldenhinden/ReWrite)!
+
+### Who we are
+
+  - [Alden Hinden](https://github.com/aldenhinden/)
+  - .
+  - .
+  - .
+
+**--- MODEL ---**
 
 ## UW Roomie
 
