@@ -7,9 +7,9 @@ BACK TO [CSE403 HOME](README.md)
 **--- MODEL ---**
 
 ## Team name 1
-
+my name
 This is the one phrase that describes your project the best!
-Our code can be found on [GitHub](https://github.com/username/projectname)!
+Our code can be found on [GitHub](https://github.com/zhengruisun/IdeaFactory)!
 
 ### Who we are
 
