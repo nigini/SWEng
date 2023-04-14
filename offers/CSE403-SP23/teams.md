@@ -45,7 +45,7 @@ Our code can be found on [Idea Factory](https://github.com/zhengruisun/IdeaFacto
 ### Who we are
 
   - [Cile Huang](https://github.com/calebhuangsea)
-  - [Zhengrui Sun](https://github.com/zhengruisun)
+  - [Zhengrui(Jerry) Sun](https://github.com/zhengruisun)
   - [Yansong Liu](https://github.com/nitrolys)
   - [Dicheng Wu](https://github.com/YukihoK20)
   - [Bohan Wu](https://github.com/bohanw16)
