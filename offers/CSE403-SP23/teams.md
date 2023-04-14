@@ -21,7 +21,7 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 **--- MODEL ---**
 
-## ASMR: A Smart Music Recommender	
+## ASMR: A Smart Music Recommender
 
 ## BeatBuddy
 
@@ -42,6 +42,17 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 ## PathKit
 
 ## RateMyUWPlan
+
+Browser extension to make course finding easier!
+Our code can be found on [Gitlab](https://gitlab.cs.washington.edu/cm03/project09-ratemyuwplan)!
+
+### Who we are
+
+  - [Member name 1](https://myhomepage.me)
+  - [Member name 2](https://myhomepage.me)
+  - [Member name 3](https://myhomepage.me)
+  - [Member name 4](https://myhomepage.me)
+  - [Member name 5](https://myhomepage.me)
 
 ## RCRS: Resilient Course Registration System
 
