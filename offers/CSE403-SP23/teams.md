@@ -21,7 +21,7 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 **--- MODEL ---**
 
-## ASMR: A Smart Music Recommender
+## ASMR: A Smart Music Recommender	
 
 ## BeatBuddy
 
@@ -33,8 +33,9 @@ Our code can be found on [GitHub](https://github.com/hmxxu/beatbuddy)!
   - [Jonathan Ly](https://jly02.github.io)
   - [HaoMing Xu](https://hmxxu.github.io)
   - [Tapan Khanal](https://myhomepage.me)
-  - [Pahn Yenbut]
+  - [Pahn]
   - [Member name 5](https://myhomepage.me)
+  - [Pu Thavikulwat](https://pu-thavi.com)
 
 ## cumulative.do
 
