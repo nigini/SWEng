@@ -9,7 +9,7 @@ BACK TO [CSE403 HOME](README.md)
 ## Team name 1
 
 This is the one phrase that describes your project the best!
-Our code can be found on [GitHub](https://github.com/username/projectname)!
+Our code can be found on [GitHub](https://github.com/username/projectname)! Hi
 
 ### Who we are
 
@@ -21,7 +21,7 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 **--- MODEL ---**
 
-## ASMR: A Smart Music Recommender	
+## ASMR: A Smart Music Recommender
 
 ## BeatBuddy
 
