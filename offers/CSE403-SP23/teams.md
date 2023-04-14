@@ -40,7 +40,7 @@ Our code can be found on [GitHub](https://github.com/winstonbullen/DuoCode)!
 
   - [Jason Gao](https://github.com/jgao222)
   - [Member name 2](https://myhomepage.me)
-  - [Member name 3](https://myhomepage.me)
+  - [Winston Bullen](https://www.linkedin.com/in/winbullen/)
   - [Member name 4](https://myhomepage.me)
   - [Member name 5](https://myhomepage.me)
 
