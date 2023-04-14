@@ -23,6 +23,16 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 ## ASMR: A Smart Music Recommender	
 
+This is the one phrase that describes your project the best: Sound Analysis!
+Our code can be found on [GitHub](https://github.com/DreamRealitii/ASmartMusicRecommender)!
+
+### Who we are
+
+  - Ethan Carnahan
+  - Eric Kumar
+  - Arnav Srinivasan
+  - Gursameep Sandhu
+
 ## BeatBuddy
 
 ## cumulative.do
