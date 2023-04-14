@@ -21,7 +21,7 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 **--- MODEL ---**
 
-## ASMR: A Smart Music Recommender	
+## ASMR: A Smart Music Recommender
 
 ## BeatBuddy
 
@@ -32,6 +32,17 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 ## DubSpot
 
 ## DuoCode
+
+DuoCode is a code learning app that is inspired by Duolingo. It is targeted towards those who are less experienced, but can cater to all levels.
+Our code can be found on [GitHub](https://github.com/winstonbullen/DuoCode)!
+
+### Who we are
+
+  - [Member name 1](https://myhomepage.me)
+  - [Member name 2](https://myhomepage.me)
+  - [Member name 3](https://myhomepage.me)
+  - [Member name 4](https://myhomepage.me)
+  - [Member name 5](https://myhomepage.me)
 
 ## Games In One
 
