@@ -21,7 +21,7 @@ Our code can be found on [GitHub](https://github.com/zhengruisun/IdeaFactory)!
 
 **--- MODEL ---**
 
-## ASMR: A Smart Music Recommender	
+## ASMR: A Smart Music Recommender
 
 ## BeatBuddy
 
