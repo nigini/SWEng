@@ -13,7 +13,7 @@ Our code can be found on [GitHub](https://github.com/zhengruisun/IdeaFactory)!
 
 ### Who we are
 
-  - [Member name 1](https://myhomepage.me)
+  - [Member name 1](https://calebhuangsea.github.io./)
   - [Member name 2](https://myhomepage.me)
   - [Member name 3](https://myhomepage.me)
   - [Member name 4](https://myhomepage.me)
