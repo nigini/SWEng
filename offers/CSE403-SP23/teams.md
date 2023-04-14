@@ -61,8 +61,6 @@ Our code can be found on [GitHub](https://github.com/Zanderthegreat12/UW-Roomie)
   - Colby Smith
   - [Member name 2](https://myhomepage.me)
   - Bella McQuade
-  - [Member name 4](https://myhomepage.me)
-  - [Member name 5](https://myhomepage.me)
 
 ## WorkoutHolic
 
