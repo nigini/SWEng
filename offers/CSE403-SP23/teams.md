@@ -42,7 +42,7 @@ Our code can be found on [GitHub]: https://github.com/asagrekin/GamesInOne!
 
   - Asa Grekin
   - [Member name 2](https://myhomepage.me)
-  - [Member name 3](https://myhomepage.me)
+  - [Steven Lok](https://www.linkedin.com/in/steven-lok/)
   - [Member name 4](https://myhomepage.me)
   - [Member name 5](https://myhomepage.me)
 ## Idea Factory
