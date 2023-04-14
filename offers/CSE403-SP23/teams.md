@@ -35,6 +35,16 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 ## Games In One
 
+All of your games, in one place.
+Our code can be found on [GitHub]: https://github.com/asagrekin/GamesInOne!
+
+### Who we are
+
+  - Asa Grekin
+  - [Member name 2](https://myhomepage.me)
+  - [Member name 3](https://myhomepage.me)
+  - [Member name 4](https://myhomepage.me)
+  - [Member name 5](https://myhomepage.me)
 ## Idea Factory
 
 ## MyCalendar
