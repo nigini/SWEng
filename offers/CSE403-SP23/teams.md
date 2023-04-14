@@ -38,11 +38,11 @@ Our code can be found on [GitHub](https://github.com/winstonbullen/DuoCode)!
 
 ### Who we are
 
-  - [Member name 1](https://myhomepage.me)
-  - [Member name 2](https://myhomepage.me)
-  - [Member name 3](https://myhomepage.me)
-  - Jason Xu
-  - [Member name 5](https://myhomepage.me)
+  - [Jason Gao](https://github.com/jgao222)
+  - [JP Gabriel](https://www.linkedin.com/in/jpgab/)
+  - [Winston Bullen](https://www.linkedin.com/in/winbullen/)
+  - [Member name 4](https://myhomepage.me)
+  - [Jason Hua](https://github.com/Jhhua04)
 
 ## Games In One
 
