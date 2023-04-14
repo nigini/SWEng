@@ -43,11 +43,11 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 Our code can be found on [GitHub](https://github.com/LeeJMorel/PathKit)
 
-  - [Member name 1](https://myhomepage.me)
+  - [Lee Janzen](https://leejmorel.github.io/#/)
   - [Christopher Bendix](https://github.com/neonsigh)
   - [Member name 3](https://myhomepage.me)
   - [Member name 4](https://myhomepage.me)
-  - Jacob
+  - Jacob Anderson
 
 ## RateMyUWPlan
 
