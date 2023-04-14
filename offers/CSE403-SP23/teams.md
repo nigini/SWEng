@@ -32,7 +32,7 @@ Our code can be found on [GitHub](https://github.com/hmxxu/beatbuddy)!
 
   - [Jonathan Ly](https://jly02.github.io)
   - [HaoMing Xu](https://hmxxu.github.io)
-  - Tapan Khanal
+  - [Tapan Khanal](https://www.linkedin.com/in/tapkha/)
   - [Member name 4](https://myhomepage.me)
   - Adrian Apolonio
   - [Pu Thavikulwat](https://pu-thavi.com)
