@@ -48,7 +48,7 @@ Our code can be found on [Gitlab](https://gitlab.cs.washington.edu/cm03/project0
 
 ### Who we are
 
-  - [Member name 1](https://myhomepage.me)
+  - Kenneth Lee
   - Junha Lee
   - [Member name 3](https://myhomepage.me)
   - [Member name 4](https://myhomepage.me)
