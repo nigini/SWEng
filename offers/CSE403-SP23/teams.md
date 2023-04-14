@@ -14,7 +14,7 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 ### Who we are
 
   - [Member name 1](https://myhomepage.me)
-  - [Kelby Steinmetz](https://www.linkedin.com/in/kelbys2/)
+  - [Member name 2](https://myhomepage.me)
   - [Member name 3](https://myhomepage.me)
   - [Member name 4](https://myhomepage.me)
   - [Member name 5](https://myhomepage.me)
