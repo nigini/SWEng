@@ -32,7 +32,7 @@ Our code can be found on [GitHub]([https://github.com/username/projectname](http
 ### Who we are
 
   - [Carrie Hu](https://myhomepage.me)
-  - [Yuzhen Qu](https://myhomepage.me)
+  - [Yuzhen Qu](https://github.com/yuzhenqu)
   - [Hai Xu](https://myhomepage.me)
   - [Drishya Nair](https://myhomepage.me)
   - [Member name 5](https://myhomepage.me)
