@@ -13,7 +13,7 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 ### Who we are
 
-  - [Foad Shariat](https://github.com/foadshariat7)
+  - [Member name 1](https://myhomepage.me)
   - [Member name 2](https://myhomepage.me)
   - [Member name 3](https://myhomepage.me)
   - [Member name 4](https://myhomepage.me)
@@ -44,6 +44,17 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 ## RateMyUWPlan
 
 ## RCRS: Resilient Course Registration System
+This is the one phrase that describes your project the best!
+Our code can be found on [GitHub](https://github.com/davin12345678910/CSE403_RCRSPTeam)!
+
+### Who we are
+
+- [Foad Shariat] [https://github.com/FoadShariat7]
+- [Azaan Khalfe] [https://github.com/AzaanKH] 
+- [Davin Win Kyi] [https://github.com/davin12345678910]
+- [Ahmed Helow] [https://github.com/ahmedhelow] 
+- [Sol Zamora] [https://github.com/solzamo]
+- [Chairnet Muche] [https://github.com/chairnetmuche]
 
 ## Region Attack
 
