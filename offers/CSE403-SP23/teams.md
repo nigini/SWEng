@@ -79,6 +79,17 @@ Our code can be found on [GitHub](https://github.com/LeeJMorel/PathKit)
 
 ## UW Roomie
 
+## Team name 1
+
+UW Roomie is a phone application where students who are planning on dorming can go to find roomates based on their preferences.
+Our code can be found on [GitHub](https://github.com/Zanderthegreat12/UW-Roomie)!
+
+### Who we are
+
+  - Colby Smith
+  - Alexander Vlashev
+  - Bella McQuade
+
 ## WorkoutHolic
 
 ---
