@@ -44,6 +44,7 @@ Our code can be found on [GitHub](https://github.com/winstonbullen/DuoCode)!
   - [Jason Xu](https://www.linkedin.com/in/jaxu/)
   - [Jason Hua](https://github.com/Jhhua04)
   - [Evan Kim](https://www.linkedin.com/in/evan-h-kim/)
+
 ## Games In One
 
 ## Idea Factory
