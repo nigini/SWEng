@@ -41,6 +41,14 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 ## PathKit
 
+Our code can be found on [GitHub](https://github.com/LeeJMorel/PathKit)
+
+  - [Lee Janzen](https://leejmorel.github.io/#/)
+  - [Christopher Bendix](https://github.com/neonsigh)
+  - [Luke Evans](https://github.com/puggernauts)
+  - Kevin Zhang
+  - Jacob Anderson
+
 ## RateMyUWPlan
 
 ## RCRS: Resilient Course Registration System
