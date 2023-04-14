@@ -35,7 +35,7 @@ DormWiki is a website designed to inform prospective/incoming students about var
 
   - Jaylyn Zhang
   - Lydia Li
-  - [Member name 3](https://myhomepage.me)
+  - Mia Yamada-Heidner
   - [Member name 4](https://myhomepage.me)
   - [Member name 5](https://myhomepage.me)
 
