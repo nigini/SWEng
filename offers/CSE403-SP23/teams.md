@@ -33,7 +33,7 @@ Our code can be found on [GitHub]([https://github.com/username/projectname](http
 
   - [Carrie Hu](https://github.com/chjy227743)
   - [Yuzhen Qu](https://github.com/yuzhenqu)
-  - [Hai Xu](https://myhomepage.me)
+  - [Hai Xu](https://github.com/haiprivate)
   - Drishya Nair
   - [Member name 5](https://myhomepage.me)
 
