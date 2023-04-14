@@ -41,7 +41,7 @@ Our code can be found on [GitHub](https://github.com/winstonbullen/DuoCode)!
   - [Member name 1](https://myhomepage.me)
   - [Member name 2](https://myhomepage.me)
   - [Member name 3](https://myhomepage.me)
-  - [Member name 4](https://myhomepage.me)
+  - Jason Xu
   - [Member name 5](https://myhomepage.me)
 
 ## Games In One
