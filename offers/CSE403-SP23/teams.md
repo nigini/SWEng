@@ -37,7 +37,7 @@ DormWiki is a website designed to inform prospective/incoming students about var
   - Lydia Li
   - Mia Yamada-Heidner
   - Yijia Zhao
-  - [Member name 5](https://myhomepage.me)
+  - Niko Permilovsky
 
 
 ## DubSpot
