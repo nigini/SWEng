@@ -35,7 +35,7 @@ Our code can be found on [GitHub]([https://github.com/username/projectname](http
   - [Yuzhen Qu](https://github.com/yuzhenqu)
   - [Hai Xu](https://github.com/haiprivate)
   - Drishya Nair
-  - [Member name 5](https://myhomepage.me)
+  - [Member name 5] (https://myhomepage.me)
 
 ## DormWiki
 
