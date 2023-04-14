@@ -34,7 +34,7 @@ Our code can be found on [GitHub](https://github.com/hmxxu/beatbuddy)!
   - [HaoMing Xu](https://hmxxu.github.io)
   - [Member name 3](https://myhomepage.me)
   - [Member name 4](https://myhomepage.me)
-  - [Member name 5](https://myhomepage.me)
+  - Adrian Apolonio
   - [Pu Thavikulwat](https://pu-thavi.com)
 
 ## cumulative.do
