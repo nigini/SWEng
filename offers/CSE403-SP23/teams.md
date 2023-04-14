@@ -45,7 +45,7 @@ Our code can be found on [GitHub](https://github.com/LeeJMorel/PathKit)
 
   - [Member name 1](https://myhomepage.me)
   - [Christopher Bendix](https://github.com/neonsigh)
-  - [Member name 3](https://myhomepage.me)
+  - [Luke Evans](https://github.com/puggernauts)
   - [Member name 4](https://myhomepage.me)
   - Jacob
 
