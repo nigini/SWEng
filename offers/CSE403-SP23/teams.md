@@ -50,8 +50,6 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 ## UW Roomie
 
-**--- MODEL ---**
-
 ## Team name 1
 
 UW Roomie is a phone application where students who are planning on dorming can go to find roomates based on their preferences.
@@ -64,8 +62,6 @@ Our code can be found on [GitHub](https://github.com/Zanderthegreat12/UW-Roomie)
   - Bella McQuade
   - [Member name 4](https://myhomepage.me)
   - [Member name 5](https://myhomepage.me)
-
-**--- MODEL ---**
 
 ## WorkoutHolic
 
