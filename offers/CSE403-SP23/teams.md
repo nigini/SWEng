@@ -41,7 +41,7 @@ Our code can be found on [GitHub]: https://github.com/asagrekin/GamesInOne!
 ### Who we are
 
   - [Asa Grekin](https://www.linkedin.com/in/asagrekin/)
-  - [Member name 2](https://myhomepage.me)
+  - [Kelby Steinmetz](https://www.linkedin.com/in/kelbys2/)
   - [Steven Lok](https://www.linkedin.com/in/steven-lok/)
   - [Member name 4](https://myhomepage.me)
   - [Member name 5](https://myhomepage.me)
