@@ -51,7 +51,7 @@ Our code can be found on [Gitlab](https://gitlab.cs.washington.edu/cm03/project0
   - Kenneth Lee
   - Junha Lee
   - Bella Cooper
-  - [Member name 4](https://myhomepage.me)
+  - Ali Al-Shimari
   - [Member name 5](https://myhomepage.me)
 
 ## RCRS: Resilient Course Registration System
