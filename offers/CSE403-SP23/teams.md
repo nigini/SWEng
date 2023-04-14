@@ -33,7 +33,7 @@ Our code can be found on [GitHub](https://github.com/hmxxu/beatbuddy)!
   - [Jonathan Ly](https://jly02.github.io)
   - [HaoMing Xu](https://hmxxu.github.io)
   - [Tapan Khanal](https://myhomepage.me)
-  - [Member name 4](https://myhomepage.me)
+  - [Pahn Yenbut]
   - [Member name 5](https://myhomepage.me)
 
 ## cumulative.do
