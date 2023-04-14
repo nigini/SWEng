@@ -16,7 +16,7 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
   - [Member name 1](https://myhomepage.me)
   - [Member name 2](https://myhomepage.me)
   - [Member name 3](https://myhomepage.me)
-  - Kevin Zhang
+  - [Member name 4](https://myhomepage.me)
   - [Member name 5](https://myhomepage.me)
 
 **--- MODEL ---**
@@ -46,7 +46,7 @@ Our code can be found on [GitHub](https://github.com/LeeJMorel/PathKit)
   - [Lee Janzen](https://leejmorel.github.io/#/)
   - [Christopher Bendix](https://github.com/neonsigh)
   - [Luke Evans](https://github.com/puggernauts)
-  - [Member name 4](https://myhomepage.me)
+  - Kevin Zhang
   - Jacob Anderson
 
 ## RateMyUWPlan
