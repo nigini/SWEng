@@ -13,7 +13,7 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 ### Who we are
 
-  - [Colby Smith]
+  - Colby Smith
   - [Member name 2](https://myhomepage.me)
   - [Member name 3](https://myhomepage.me)
   - [Member name 4](https://myhomepage.me)
