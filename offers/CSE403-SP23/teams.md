@@ -1,4 +1,4 @@
-BACK TO [CSE403 HOME](README.md)
+ BACK TO [CSE403 HOME](README.md)
 
 ---
 
@@ -21,7 +21,7 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 **--- MODEL ---**
 
-## ASMR: A Smart Music Recommender	
+## ASMR: A Smart Music Recommender
 
 ## BeatBuddy
 
@@ -44,15 +44,19 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 ## RateMyUWPlan
 
 ## RCRS: Resilient Course Registration System
-This is the one phrase that describes your project the best!
-Our code can be found on [GitHub](https://github.com/davin12345678910/CSE403_RCRSPTeam)!
+We hope to build on top of the current UW regsitration system. We will be improving the system by improving on current tools of the registration system, for example we will be
+improving the transparency of the website. We will also add new features such as an add
+in code system that is within the registration system which makes the add in code process
+more steamlined.
+
+Our code can be found on: (https://github.com/davin12345678910/CSE403_RCRSPTeam)!
 
 ### Who we are
 
-- [Foad Shariat] [https://github.com/FoadShariat7]
-- [Azaan Khalfe] [https://github.com/AzaanKH] 
 - [Davin Win Kyi] [https://github.com/davin12345678910]
-- [Ahmed Helow] [https://github.com/ahmedhelow] 
+- [Foad Shariat] [https://github.com/FoadShariat7]
+- [Azaan Khalfe] [https://github.com/AzaanKH]
+- [Ahmed Helow] [https://github.com/ahmedhelow]
 - [Sol Zamora] [https://github.com/solzamo]
 - [Chairnet Muche] [https://github.com/chairnetmuche]
 
