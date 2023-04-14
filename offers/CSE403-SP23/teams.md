@@ -15,7 +15,7 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
   - [Member name 1](https://myhomepage.me)
   - [Member name 2](https://myhomepage.me)
-  - [Bella Cooper](https://www.linkedin.com/in/bellacooper/)
+  - [Member name 3](https://myhomepage.me)
   - [Member name 4](https://myhomepage.me)
   - [Member name 5](https://myhomepage.me)
 
@@ -50,7 +50,7 @@ Our code can be found on [Gitlab](https://gitlab.cs.washington.edu/cm03/project0
 
   - Kenneth Lee
   - Junha Lee
-  - [Member name 3](https://myhomepage.me)
+  - Bella Cooper
   - [Member name 4](https://myhomepage.me)
   - [Member name 5](https://myhomepage.me)
 
