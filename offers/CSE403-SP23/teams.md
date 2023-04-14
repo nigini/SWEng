@@ -28,10 +28,10 @@ Our code can be found on [GitHub](https://github.com/DreamRealitii/ASmartMusicRe
 
 ### Who we are
 
-  - Ethan Carnahan
-  - Eric Kumar
-  - Arnav Srinivasan
-  - Gursameep Sandhu
+  - [Ethan Carnahan](https://github.com/DreamRealitii)
+  - [Member name 2](https://github.com/)
+  - [Member name 3](https://github.com/)
+  - [Member name 4](https://github.com/)
 
 ## BeatBuddy
 
