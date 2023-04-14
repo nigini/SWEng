@@ -21,7 +21,7 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 **--- MODEL ---**
 
-## ASMR: A Smart Music Recommender	
+## ASMR: A Smart Music Recommender
 
 This is the one phrase that describes your project the best: Sound Analysis!
 Our code can be found on [GitHub](https://github.com/DreamRealitii/ASmartMusicRecommender)!
@@ -45,6 +45,16 @@ Our code can be found on [GitHub](https://github.com/DreamRealitii/ASmartMusicRe
 
 ## Games In One
 
+All of your games, in one place.
+Our code can be found on [GitHub]: https://github.com/asagrekin/GamesInOne!
+
+### Who we are
+
+  - [Asa Grekin](https://www.linkedin.com/in/asagrekin/)
+  - [Kelby Steinmetz](https://www.linkedin.com/in/kelbys2/)
+  - [Steven Lok](https://www.linkedin.com/in/steven-lok/)
+  - [Leonardo Ochoa](https://www.linkedin.com/in/leonardo-ochoa-)
+  - [Member name 5](https://myhomepage.me)
 ## Idea Factory
 
 ## MyCalendar
