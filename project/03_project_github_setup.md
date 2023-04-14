@@ -20,13 +20,13 @@ contributors, and add a link to this repository to your living document.
 The top-level README should briefly describe the idea and goals of your project
 and explain the layout of the repository.
 
-### 3. Start planning your project tasks by [creating issues](https://github.com/features/issues).
+### 3. Start planning your project tasks by [creating issues](https://github.com/features/issues) (40%)
 
 Managing *issues* or *tasks* or *bugs* is a very common feature of project management tools like GitHub.
 We highly recommend you use it as your main way for team coordination.
 Don't try to be perfect with planning, just start putting as many tasks down as you can imagine. (You can always delete them later!) 
 
-### 4. Add [bookmarks](https://slack.com/help/articles/205239997-Pin-messages-and-bookmark-links) in your Slack channel pointing to your GitHub repository and your living document.
+### 4. Add [bookmarks](https://slack.com/help/articles/205239997-Pin-messages-and-bookmark-links) in your Slack channel pointing to your GitHub repository and your living document (10%)
 
 ### 5. Start experimenting and setting up resources
 
