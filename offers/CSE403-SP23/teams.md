@@ -59,7 +59,7 @@ Our code can be found on [GitHub](https://github.com/Zanderthegreat12/UW-Roomie)
 ### Who we are
 
   - Colby Smith
-  - [Member name 2](https://myhomepage.me)
+  - Alexander Vlashev
   - Bella McQuade
 
 ## WorkoutHolic
