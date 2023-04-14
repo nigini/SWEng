@@ -31,7 +31,7 @@ Our code can be found on [GitHub]([https://github.com/username/projectname](http
 
 ### Who we are
 
-  - [Carrie Hu](https://myhomepage.me)
+  - [Carrie Hu](https://github.com/chjy227743)
   - [Yuzhen Qu](https://github.com/yuzhenqu)
   - [Hai Xu](https://myhomepage.me)
   - [Drishya Nair](https://myhomepage.me)
