@@ -89,6 +89,7 @@ Our code can be found on: (https://github.com/davin12345678910/CSE403_RCRSPTeam)
 
 ### Who we are
 
+- [Foad Shariat] [https://github.com/FoadShariat7]
 - [Chairnet Muche] [https://github.com/chairnetmuche]
 - [Davin Win Kyi] [https://github.com/davin12345678910]
 
