@@ -91,8 +91,8 @@ Our code can be found on: (https://github.com/davin12345678910/CSE403_RCRSPTeam)
 
 - [Davin Win Kyi] [https://github.com/davin12345678910]
 - [Foad Shariat] [https://github.com/FoadShariat7]
-- [Azaan Khalfe] [https://github.com/AzaanKH]
 - [Ahmed Helow] [https://github.com/ahmedhelow]
+- [Azaan Khalfe] [https://github.com/AzaanKH]
 - [Sol Zamora] [https://github.com/solzamo]
 - [Chairnet Muche] [https://github.com/chairnetmuche]
 
