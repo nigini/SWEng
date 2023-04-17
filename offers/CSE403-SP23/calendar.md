@@ -32,7 +32,7 @@ BACK TO [CSE403 HOME](README.md)
 |	04/14	|	LX: GIT		|	[SLIDES](material/9-GitPractice.pdf)	|	[LX9](https://canvas.uw.edu/courses/1633262/assignments/8309921)	|
 |	---		| 	---		    	|	---			|	---			|
 |**WEEK 4**												|
-|	04/17	|	L: Data modeling  |		|		|
+|	04/17	|	L: Data modeling  | [SLIDES](material/10-DataModeling.pdf)	|		|
 |	04/18	|	T:		|		|	DUE: [GPS!!!](https://canvas.uw.edu/courses/1633262/assignments/8174312)	|
 |	04/19	|	L: Architecture	|		|	[Design & Architecture (DnA)](../../project/04_project_design.md)	|
 |	04/20	|	P: 		|		|		|
