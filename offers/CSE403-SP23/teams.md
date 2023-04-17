@@ -35,6 +35,18 @@ Our code can be found on [GitHub](https://github.com/DreamRealitii/ASmartMusicRe
 
 ## BeatBuddy
 
+Music visualization and recommendations at the tips of your fingers!
+Our code can be found on [GitHub](https://github.com/hmxxu/beatbuddy)!
+
+### Who we are
+
+  - [Jonathan Ly](https://jly02.github.io)
+  - [HaoMing Xu](https://hmxxu.github.io)
+  - [Tapan Khanal](https://www.linkedin.com/in/tapkha/)
+  - Pahn Yenbut
+  - Adrian Apolonio
+  - [Pu Thavikulwat](https://pu-thavi.com)
+
 ## cumulative.do
 
 ## DormWiki
