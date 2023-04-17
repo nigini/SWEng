@@ -54,6 +54,18 @@ DormWiki is a website designed to inform prospective/incoming students about var
 
 ## DuoCode
 
+DuoCode is a code learning app that is inspired by Duolingo. It is targeted towards those who are less experienced, but can cater to all levels.
+Our code can be found on [GitHub](https://github.com/winstonbullen/DuoCode)!
+
+### Who we are
+
+  - [Jason Gao](https://github.com/jgao222)
+  - [JP Gabriel](https://www.linkedin.com/in/jpgab/)
+  - [Winston Bullen](https://www.linkedin.com/in/winbullen/)
+  - [Jason Xu](https://www.linkedin.com/in/jaxu/)
+  - [Jason Hua](https://github.com/Jhhua04)
+  - [Evan Kim](https://www.linkedin.com/in/evan-h-kim/)
+
 ## Games In One
 
 All of your games, in one place.
