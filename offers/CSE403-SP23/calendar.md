@@ -34,7 +34,7 @@ BACK TO [CSE403 HOME](README.md)
 |**WEEK 4**												|
 |	04/17	|	L: Data modeling  | [SLIDES](material/10-DataModeling.pdf)[REC](https://canvas.uw.edu/files/105135902/)	|		|
 |	04/18	|	T: GPS	|		|	DUE: [GPS!!!](https://canvas.uw.edu/courses/1633262/assignments/8174312)	|
-|	04/19	|	L: Architecture	|	[SLIDES](material/10-DataModeling.pdf)/[READ](https://canvas.uw.edu/files/105234851/)/[WATCH](https://youtu.be/BrT3AO8bVQY)	|	[Design & Architecture (DnA)](../../project/04_project_design.md)	|
+|	04/19	|	L: Architecture	|	[SLIDES](material/11-Architecture.pdf)/[REC](https://canvas.uw.edu/files/105246696/)/[READ](https://canvas.uw.edu/files/105234851/)/[WATCH](https://youtu.be/BrT3AO8bVQY)	|	[Design & Architecture (DnA)](../../project/04_project_design.md)	|
 |	04/20	|	P: DnA	|		|		|
 |	04/21	|	L: Design		|		|		|
 |	---		| 	---		    	|	---			|	---			|
