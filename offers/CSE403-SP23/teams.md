@@ -116,6 +116,17 @@ Our code can be found on [GitHub](https://github.com/LeeJMorel/PathKit)
 
 ## RateMyUWPlan
 
+Browser extension to make course finding easier!
+Our code can be found on [Gitlab](https://gitlab.cs.washington.edu/cm03/project09-ratemyuwplan)!
+
+### Who we are
+
+  - Kenneth Lee
+  - Junha Lee
+  - Bella Cooper
+  - Ali Al-Shimari
+  - Brenda Ruvalcaba
+
 ## RCRS: Resilient Course Registration System
 
 ## Region Attack
