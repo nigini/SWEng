@@ -81,7 +81,7 @@ For each, give:
 Explicitly state how this has changed since you submitted your Requirements
 document.
 
-#### ii. Project schedule **(!!! REMOVE: SHOULD USE GITHUB TO TRACK THIS ???)**
+#### ii. Project schedule
 
 Identify milestones (external and internal), define tasks along with effort
 estimates (at granularity no coarser than 1-person-week units), and identify
@@ -102,16 +102,7 @@ Make sure to update your team structure, if necessary, and provide more details
 about team organization and team members' roles and responsibilities.
 
 
-#### iv. Test plan & bugs **(!!! MOVE TO AFTER TEST IS DISCUSSED - WEEK 6 ???)**
-
-Describe what aspects of your system you plan to test and why they are
-sufficient, as well as how specifically you plan to test those aspects in a
-disciplined way. Describe a strategy for each of unit testing, system
-(integration) testing, and usability testing, along with any specific test
-suites identified to capture the requirements.
-
-
-#### v. Documentation plan
+#### vi. Documentation plan
 
 Outline a plan for developing documentation that you plan to deliver with the
 system, e.g., user guides, admin guides, developer guides, man pages, help
