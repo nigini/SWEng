@@ -21,9 +21,31 @@ Our code can be found on [GitHub](https://github.com/username/projectname)!
 
 **--- MODEL ---**
 
-## ASMR: A Smart Music Recommender	
+## ASMR: A Smart Music Recommender
+
+This is the one phrase that describes your project the best: Sound Analysis!
+Our code can be found on [GitHub](https://github.com/DreamRealitii/ASmartMusicRecommender)!
+
+### Who we are
+
+  - [Ethan Carnahan](https://github.com/DreamRealitii)
+  - [Member name 2](https://github.com/)
+  - [Member name 3](https://github.com/)
+  - [Member name 4](https://github.com/)
 
 ## BeatBuddy
+
+Music visualization and recommendations at the tips of your fingers!
+Our code can be found on [GitHub](https://github.com/hmxxu/beatbuddy)!
+
+### Who we are
+
+  - [Jonathan Ly](https://jly02.github.io)
+  - [HaoMing Xu](https://hmxxu.github.io)
+  - [Tapan Khanal](https://www.linkedin.com/in/tapkha/)
+  - Pahn Yenbut
+  - Adrian Apolonio
+  - [Pu Thavikulwat](https://pu-thavi.com)
 
 ## cumulative.do
 This product will be a to do list web application mainly built through HTML, CSS, and Javascript that aims to collect assignment data from Canvas and course websites to automatically create and update a list of to dos for the user. The application will also allow a user to be able to add in other to do list items of their own choice. To-do list items will be displayed in chronological order of due date and will be crossed off from the list as the user checks off the tasks. The target audience of this product would be students at UW but can eventually be expanded to students in general. 
@@ -39,17 +61,58 @@ Our code can be found on [GitHub]([https://github.com/username/projectname](http
 
 ## DormWiki
 
+DormWiki is a website designed to inform prospective/incoming students about various dorms on campus. It will summarize all the information students need to know about the dorm, helping them find the one that most suits their needs. The website also will help current students stay updated about events happening at their dorms, fostering a sense of community and belonging.
+
+### Who we are
+
+  - Jaylyn Zhang
+  - Lydia Li
+  - Mia Yamada-Heidner
+  - Yijia Zhao
+  - Niko Permilovsky
+
+
 ## DubSpot
 
 ## DuoCode
 
+DuoCode is a code learning app that is inspired by Duolingo. It is targeted towards those who are less experienced, but can cater to all levels.
+Our code can be found on [GitHub](https://github.com/winstonbullen/DuoCode)!
+
+### Who we are
+
+  - [Jason Gao](https://github.com/jgao222)
+  - [JP Gabriel](https://www.linkedin.com/in/jpgab/)
+  - [Winston Bullen](https://www.linkedin.com/in/winbullen/)
+  - [Jason Xu](https://www.linkedin.com/in/jaxu/)
+  - [Jason Hua](https://github.com/Jhhua04)
+  - [Evan Kim](https://www.linkedin.com/in/evan-h-kim/)
+
 ## Games In One
 
+All of your games, in one place.
+Our code can be found on [GitHub]: https://github.com/asagrekin/GamesInOne!
+
+### Who we are
+
+  - [Asa Grekin](https://www.linkedin.com/in/asagrekin/)
+  - [Kelby Steinmetz](https://www.linkedin.com/in/kelbys2/)
+  - [Steven Lok](https://www.linkedin.com/in/steven-lok/)
+  - [Leonardo Ochoa](https://www.linkedin.com/in/leonardo-ochoa-)
+  - [Member name 5](https://myhomepage.me)
 ## Idea Factory
 
 ## MyCalendar
 
 ## PathKit
+
+Our code can be found on [GitHub](https://github.com/LeeJMorel/PathKit)
+
+  - [Lee Janzen](https://leejmorel.github.io/#/)
+  - [Christopher Bendix](https://github.com/neonsigh)
+  - [Luke Evans](https://github.com/puggernauts)
+  - Kevin Zhang
+  - Jacob Anderson
 
 ## RateMyUWPlan
 
@@ -60,6 +123,17 @@ Our code can be found on [GitHub]([https://github.com/username/projectname](http
 ## ReWrite
 
 ## UW Roomie
+
+## Team name 1
+
+UW Roomie is a phone application where students who are planning on dorming can go to find roomates based on their preferences.
+Our code can be found on [GitHub](https://github.com/Zanderthegreat12/UW-Roomie)!
+
+### Who we are
+
+  - Colby Smith
+  - Alexander Vlashev
+  - Bella McQuade
 
 ## WorkoutHolic
 
