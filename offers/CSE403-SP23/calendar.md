@@ -39,7 +39,7 @@ BACK TO [CSE403 HOME](README.md)
 |	04/21	|	L: Design		|		|		|
 |	---		| 	---		    	|	---			|	---			|
 |**WEEK 5**												|
-|	04/24	|	L: Build Systems	|	[SLIDES](material/13-BuildSystems.pdf)	|		|
+|	04/24	|	L: Build Systems	|	[SLIDES](material/13-BuildSystems.pdf)/[REC](https://canvas.uw.edu/files/105446393/)	|		|
 |	04/25	|	T: 		|		|	DUE: [DnA!!!](https://canvas.uw.edu/courses/1633262/assignments/8174317)	|
 |	04/26	|	L: Testing	|		|	[Testing & CI/CD (TCC)](../../project/05_project_testing.md)	|
 |	04/27	|	P: 		|		|		|
