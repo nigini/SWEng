@@ -32,14 +32,14 @@ BACK TO [CSE403 HOME](README.md)
 |	04/14	|	LX: GIT		|	[SLIDES](material/9-GitPractice.pdf)	|	[LX9](https://canvas.uw.edu/courses/1633262/assignments/8309921)	|
 |	---		| 	---		    	|	---			|	---			|
 |**WEEK 4**												|
-|	04/17	|	L: Data modeling  | [SLIDES](material/10-DataModeling.pdf)[REC](https://canvas.uw.edu/files/105135902/)	|		|
+|	04/17	|	L: Data modeling  | [SLIDES](material/10-DataModeling.pdf)/[REC](https://canvas.uw.edu/files/105135902/)	|		|
 |	04/18	|	T: GPS	|		|	DUE: [GPS!!!](https://canvas.uw.edu/courses/1633262/assignments/8174312)	|
 |	04/19	|	L: Architecture	|	[SLIDES](material/11-Architecture.pdf)/[REC](https://canvas.uw.edu/files/105246696/)/[READ](https://canvas.uw.edu/files/105234851/)/[WATCH](https://youtu.be/BrT3AO8bVQY)	|	[Design & Architecture (DnA)](../../project/04_project_design.md)	|
 |	04/20	|	P: DnA	|		|		|
 |	04/21	|	L: Design		|		|		|
 |	---		| 	---		    	|	---			|	---			|
 |**WEEK 5**												|
-|	04/24	|	L: Build Systems	|		|		|
+|	04/24	|	L: Build Systems	|	[SLIDES](material/13-BuildSystems.pdf)	|		|
 |	04/25	|	T: 		|		|	DUE: [DnA!!!](https://canvas.uw.edu/courses/1633262/assignments/8174317)	|
 |	04/26	|	L: Testing	|		|	[Testing & CI/CD (TCC)](../../project/05_project_testing.md)	|
 |	04/27	|	P: 		|		|		|
