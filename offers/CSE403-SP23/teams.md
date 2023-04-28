@@ -135,8 +135,6 @@ Our code can be found on [Gitlab](https://gitlab.cs.washington.edu/cm03/project0
 
 ## UW Roomie
 
-## Team name 1
-
 UW Roomie is a phone application where students who are planning on dorming can go to find roomates based on their preferences.
 Our code can be found on [GitHub](https://github.com/Zanderthegreat12/UW-Roomie)!
 
