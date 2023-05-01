@@ -43,10 +43,10 @@ BACK TO [CSE403 HOME](README.md)
 |	04/25	|	T: DnA		|		|	DUE: [DnA!!!](https://canvas.uw.edu/courses/1633262/assignments/8174317)	|
 |	04/26	|	L: Testing	|   [SLIDES](material/14-Testing.pdf)/[REC](https://canvas.uw.edu/files/105550442/)	|	[Testing & CI/CD (TCC)](../../project/05_project_testing.md)	|
 |	04/27	|	P: TCC 	|		|		|
-|	04/28	|	L: CI/CD	|	[SLIDES](material/15-CI_CD.pdf)	|		|
+|	04/28	|	L: CI/CD	|	[SLIDES](material/15-CI_CD.pdf)/[REC](https://canvas.uw.edu/files/105646597/)	|		|
 |	---		| 	---		    |	---			|	---			|
 |**WEEK 6**												|
-|	05/01	|	L: Test Coverage	|		|		|
+|	05/01	|	L: Test Coverage	|	[SLIDES](material/16-TestCoverage.pdf) |		|
 |	05/02	|	T: 	|		|	DUE: [TCC!!!](https://canvas.uw.edu/courses/1633262/assignments/8174421)	|
 |	05/03	|	L: Mutation Testing	|		|	[Alpha Release (R1)](../../project/06_project_r1.md)	|
 |	05/04	|	P:	|		|		|
