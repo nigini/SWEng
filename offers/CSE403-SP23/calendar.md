@@ -46,8 +46,8 @@ BACK TO [CSE403 HOME](README.md)
 |	04/28	|	L: CI/CD	|	[SLIDES](material/15-CI_CD.pdf)/[REC](https://canvas.uw.edu/files/105646597/)	|		|
 |	---		| 	---		    |	---			|	---			|
 |**WEEK 6**												|
-|	05/01	|	L: Test Coverage	|	[SLIDES](material/16-TestCoverage.pdf) |		|
-|	05/02	|	T: 	|		|	DUE: [TCC!!!](https://canvas.uw.edu/courses/1633262/assignments/8174421)	|
+|	05/01	|	L: Test Coverage	|	[SLIDES](material/16-TestCoverage.pdf)/[REC](https://canvas.uw.edu/files/105773532/) |		|
+|	05/02	|	T: TCC	|		|	DUE: [TCC!!!](https://canvas.uw.edu/courses/1633262/assignments/8174421)	|
 |	05/03	|	L: Mutation Testing	|		|	[Alpha Release (R1)](../../project/06_project_r1.md)	|
 |	05/04	|	P:	|		|		|
 |	05/05	|	LX: Code Defenders	|		|		|
