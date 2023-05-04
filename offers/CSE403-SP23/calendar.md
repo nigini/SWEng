@@ -48,13 +48,13 @@ BACK TO [CSE403 HOME](README.md)
 |**WEEK 6**												|
 |	05/01	|	L: Test Coverage	|	[SLIDES](material/16-TestCoverage.pdf)/[REC](https://canvas.uw.edu/files/105773532/) |		|
 |	05/02	|	T: TCC	|		|	DUE: [TCC!!!](https://canvas.uw.edu/courses/1633262/assignments/8174421)	|
-|	05/03	|	L: Mutation Testing	|	[SLIDES](17-MutationTesting.pdf)/[REC](https://canvas.uw.edu/files/105855127/)	|	[Alpha Release (R1)](../../project/06_project_r1.md)	|
-|	05/04	|	P:	|		|		|
-|	05/05	|	LX: Code Defenders	|		|		|
+|	05/03	|	L: Mutation Testing	|	[SLIDES](material/17-MutationTesting.pdf)/[REC](https://canvas.uw.edu/files/105855127/)	|	[Alpha Release (R1)](../../project/06_project_r1.md)	|
+|	05/04	|	P: R1	|		|		|
+|	05/05	|	LX: Code Defenders	|		|	[LX18: Code Defenders](https://canvas.uw.edu/courses/1633262/assignments/8342992)	|
 |	---		| 	---		    |	---			|	---			|
 |**WEEK 7**												|
 |	05/08	|	L: Hack Day	|		|		|
-|	05/09	|	T:	|		|	DUE: [R1!!!](https://canvas.uw.edu/courses/1633262/assignments/8176711)	|
+|	05/09	|	T: R1	|		|	DUE: [R1!!!](https://canvas.uw.edu/courses/1633262/assignments/8176711)	|
 |	05/10	|	L: Course Reflection	|		|	[Beta Release (R2)](../../project/07_project_r2.md)	|
 |	05/11	|	P:	|		|		|
 |	05/12	|	LX: Testing	|		|		|
