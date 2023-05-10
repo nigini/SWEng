@@ -17,7 +17,7 @@ developer documentation.
 
   - Each group member must contribute to the code base.
   - Each group member must demonstrate proper use of version control and CI.
-  - Each contribution (commit/pull request) must be tested, commented, and code reviewed.
+  - Each contribution (commit/pull request) must be tested, and commented.
   - Complete this in the **main branch** of your repository by due date. *(Check Calendar!)*
 
 
