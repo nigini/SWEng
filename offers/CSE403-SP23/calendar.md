@@ -56,28 +56,28 @@ BACK TO [CSE403 HOME](README.md)
 |	05/08	|	L: Hack Day	|		|		|
 |	05/09	|	T: R1	|		|	DUE: [R1!!!](https://canvas.uw.edu/courses/1633262/assignments/8176711)	|
 |	05/10	|	L: Course Reflection	|		|	[Beta Release (R2)](../../project/07_project_r2.md)	|
-|	05/11	|	P:	|		|		|
-|	05/12	|	LX: Testing	|		|		|
+|	05/11	|	P: R2	|		|		|
+|	05/12	|	LX: Testing	|		|	[LX21: Mutation Testing](https://canvas.uw.edu/courses/1633262/assignments/8357439)	|
 |	---		| 	---		    |	---			|	---			|
 |**WEEK 8**												|
 |	05/15	|	L: Code Review	|		|		|
-|	05/16	|	T:	|		|	DUE: [R2!!!](https://canvas.uw.edu/courses/1633262/assignments/8176832)	|
+|	05/16	|	T: R2	|		|	DUE: [R2!!!](https://canvas.uw.edu/courses/1633262/assignments/8176832)	|
 |	05/17	|	L: Debugging	|		|	[Release Peer-Review (RPR)](../../PROJECT/08_project_peer_review.md)	|
-|	05/18	|	P:	|		|		|
+|	05/18	|	P: RPR	|		|		|
 |	05/19	|	LX: Debbuging	|		|		|
 |	---		| 	---		    |	---			|	---			|
 |**WEEK 9**												|
 |	05/22	|	L: Hack Day	|		|		|
-|	05/23	|	T:	|		|	DUE: [RPR!!!](https://canvas.uw.edu/courses/1633262/assignments/8176948)	|
+|	05/23	|	T: RPR	|		|	DUE: [RPR!!!](https://canvas.uw.edu/courses/1633262/assignments/8176948)	|
 |	05/24	|	L: Fault Location	|		|	[Final Release (R3)](../../project/09_project_r3.md)	|
-|	05/25	|	P:	|		|		|
+|	05/25	|	P: R3	|		|		|
 |	05/26	|	LX: Fault Location	|		|		|
 |	---		| 	---		    |	---			|	---			|
 |**WEEK 10**											|
 |	05/29	|	*H: MEM-DAY*	|		|		|
-|	05/30	|	T:	|		|	DUE: [R3!!!](https://canvas.uw.edu/courses/1633262/assignments/8176962)	|
+|	05/30	|	T: R3	|		|	DUE: [R3!!!](https://canvas.uw.edu/courses/1633262/assignments/8176962)	|
 |	05/31	|	L: Program Analysis	|		|	[Individual Reflexion (IR)](../../project/10_project_reflection.md)	|
-|	06/01	|	P:	|		|		|
+|	06/01	|	P: IR	|		|		|
 |	06/02	|	LX: PA (extra-cred)	|		|		|
 |	---		| 	---		    |	---			|	---			|
 |**WEEK 11**											|
