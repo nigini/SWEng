@@ -60,7 +60,7 @@ BACK TO [CSE403 HOME](README.md)
 |	05/12	|	LX: Testing	|		|	[LX21: Mutation Testing](https://canvas.uw.edu/courses/1633262/assignments/8357439)	|
 |	---		| 	---		    |	---			|	---			|
 |**WEEK 8**												|
-|	05/15	|	L: Code Review	|	[SLIDES](material/22-CodeReview.pdf)	|		|
+|	05/15	|	L: Code Review	|	[SLIDES](material/22-CodeReview.pdf)/[REC](https://canvas.uw.edu/files/106297857/)	|	[POINTS](https://cse403-sp23.slack.com/archives/C0508PY0U30/p1684181473106589) |
 |	05/16	|	T: R2	|		|	DUE: [R2!!!](https://canvas.uw.edu/courses/1633262/assignments/8176832)	|
 |	05/17	|	L: Debugging	|		|	[Release Peer-Review (RPR)](../../PROJECT/08_project_peer_review.md)	|
 |	05/18	|	P: RPR	|		|		|
