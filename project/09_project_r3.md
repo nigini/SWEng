@@ -41,7 +41,7 @@ Your presentation should have **two parts**:
   2. A reflection on the overall group project (8-10 minutes). This part of your
   presentation should address and reflect on the following:
 
-    * _Features and cuts_:
+  * _Features and cuts_:
       Have you completed the major functionality and features listed in your original requirements document?
       What about the extra features (stretch goals) you listed?
       Did you add any additional features during the project that were not listed in your original requirements document?
@@ -49,24 +49,24 @@ Your presentation should have **two parts**:
       What features did you cut to help you complete the project in time, and why did you choose these to be cut?
       How much work do you estimate you saved by cutting these features?
 
-    * _Roles and responsibilities_:
+  * _Roles and responsibilities_:
       What ended up being your team members' current roles?
       How does this differ from your original expectations and specifications?
 
-    * _Process and timeline_:
+  * _Process and timeline_:
       Did you change your software developement process model?
       What occupied the majority of each team member's time and workload?
       How does this differ from your original expectations and specifications?
       Where did you spend too much time, and why?
       Where did you spend too little time, and why?
 
-    * _Testing and tooling_:
+  * _Testing and tooling_:
       How much time have you spent on testing; how much time have you spent on code reviews?
       Would you increase or decrease the amount of time spent on each, and why?
       What issues (bugs, invalid assumptions, etc.) did the peer-review process reveal?
       What would you change to identify and address issue earlier in the future? 
 
-    * _Planning and estimates_:
+  * _Planning and estimates_:
       Briefly contrast what you ended up doing with your original plan and estimates.
       For example, your weekly progress reports and the version control logs are
       a good starting point for determining how each member has actually spent
