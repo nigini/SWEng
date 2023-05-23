@@ -31,7 +31,7 @@ Our code can be found on [GitHub](https://github.com/DreamRealitii/ASmartMusicRe
   - [Ethan Carnahan](https://github.com/DreamRealitii)
   - [Arnav Srinivasan](https://github.com/asrini30)
   - [Eric Kumar](https://github.com/Ekumar3)
-  - [Member name 4](https://github.com/)
+  - [Gursameep Singh Sandhu](https://github.com/Gsandhu2)
 
 ## BeatBuddy
 
