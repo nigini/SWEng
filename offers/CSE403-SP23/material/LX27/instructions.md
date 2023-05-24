@@ -92,7 +92,7 @@ A **plain-text file** including the following information:
 + a **list of all group members**,
 + your answers to the 6 questions above,
 + the minimized failing test method (i.e., `testFailing`) for bug1,
-+ three patches (in [unified diff](https://en.wikipedia.org/wiki/Diff#Unified_format) format) for bug1, bug2, and bug3.
++ three patches (in [unified diff](https://en.wikipedia.org/wiki/Diff#Unified_format) format) for bug1, bug2, and bug3. (TIP: Use `git diff bug<number>`)
 
 
 ### Steps for turn-in
