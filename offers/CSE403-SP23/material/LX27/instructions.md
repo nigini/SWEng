@@ -7,12 +7,12 @@ software testing best practices that support effective debugging.
 ## Set up
 1. Team up in groups of size 2.
 
-2. **Assign yourself to the correct (in-class-5-fault-localization) group on Canvas.
-   (You may work and submit alone, but you must still self-assign to a group on Canvas!)**
+2. Assign yourself to the correct (LX27-fault-localization) group on Canvas.
+   (You may work and submit alone, but you must still self-assign to a group on Canvas!)
 
 3. Make sure that you have
    [Apache Ant](http://ant.apache.org/),
-   a [Java 17](https://www.oracle.com/java/technologies/downloads) JDK, and
+   a [Java 17+](https://www.oracle.com/java/technologies/downloads) JDK, and
    [git](https://git-scm.com/) installed.
 The required software is already installed on attu.cs.washington.edu, if you
 prefer to do the exercise there.
@@ -58,14 +58,12 @@ you should be able to compile the code and run the tests.
 5. **Bug1:** Localize and fix the bug. If you get stuck, ask a staff member
    for help. (See Question 3 below)
 
-6. **Bug1**: Use [this link](fl_output)
-   to view the ranking files for each bug, and locate the buggy line in
-   `bug<X>.ranking.txt`, where `<X>` is the bug number (i.e., `1` for Bug1).
+6. **Bug1**: Use [this link](fl_output/bug1.ranking.txt) to view the ranking file.
    (See Question 4 below)
 
-7. **Bug2:** Repeat steps 2, 5, and 6. (See Question 4 below)
+7. **Bug2:** Use test outcomes (step 1-2), the [Tarantula Viz](fl_output/bug2.min.html), and the [ranking file](fl_output/bug2.ranking.txt) to fix the bug and answer the questions bellow.
 
-8. **Bug3:** Repeat steps 2, 5, and 6. (See Question 4 below)
+8. **Bug3:** Use test outcomes (step 1-2), the [Tarantula Viz](fl_output/bug3.min.html), and the [ranking file](fl_output/bug3.ranking.txt) to fix the bug and answer the questions bellow.
 
 
 ## Questions
@@ -79,8 +77,7 @@ technique change after minimizing the failing test? Briefly explain why.
 
 3. *Bug1*: What information helped you to ultimately localize and fix the bug?
 
-4. **For each bug**, where does the buggy line appear in the
-[`bug<X>.ranking.txt`](fl_output), where `<X>` is the bug number (i.e., `1` for Bug1)?
+4. **For each bug**, where does the buggy line appear in the ranking file?
 For each bug, briefly explain your observation.
 
 5. **Compare all bugs**: Which was the easiest to localize, and which was the hardest
@@ -100,4 +97,4 @@ A **plain-text file** including the following information:
 
 ### Steps for turn-in
 
-One team member should upload the deliverables to Canvas, via the [Canvas submission site](https://canvas.uw.edu/courses/1612319/assignments/8060491) for this course.
+One team member should upload the deliverables to Canvas.
