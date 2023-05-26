@@ -61,9 +61,9 @@ you should be able to compile the code and run the tests.
 6. **Bug1**: Use [this link](fl_output/bug1.ranking.txt) to view the ranking file.
    (See Question 4 below)
 
-7. **Bug2:** Use test outcomes (step 1-2), the [Tarantula Viz](fl_output/bug2.min.html), and the [ranking file](fl_output/bug2.ranking.txt) to fix the bug and answer the questions bellow.
+7. **Bug2:** Use test outcomes (step 1-2), the [Tarantula Viz](fl_output/bug2.html), and the [ranking file](fl_output/bug2.ranking.txt) to fix the bug and answer the questions bellow.
 
-8. **Bug3:** Use test outcomes (step 1-2), the [Tarantula Viz](fl_output/bug3.min.html), and the [ranking file](fl_output/bug3.ranking.txt) to fix the bug and answer the questions bellow.
+8. **Bug3:** Use test outcomes (step 1-2), the [Tarantula Viz](fl_output/bug3.html), and the [ranking file](fl_output/bug3.ranking.txt) to fix the bug and answer the questions bellow.
 
 
 ## Questions
