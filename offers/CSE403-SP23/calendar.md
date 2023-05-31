@@ -74,11 +74,11 @@ BACK TO [CSE403 HOME](README.md)
 |	05/26	|	LX: Fault Location	|		|		|
 |	---		| 	---		    |	---			|	---			|
 |**WEEK 10**											|
-|	05/29	|	*H: MEM-DAY*	|		|		|
+|	05/29	|	*H: MEM-DAY*	|	-	|	-	|
 |	05/30	|	T: R3	|		|	DUE: [R3!!!](https://canvas.uw.edu/courses/1633262/assignments/8176962)	|
-|	05/31	|	L: Program Analysis	|		|	[Individual Reflexion (IR)](../../project/10_project_reflection.md)	|
+|	05/31	|	L: Program Analysis	|	[Discussion](https://cse403-sp23.slack.com/archives/C0508PY0U30/p1685502789607749) |	[Individual Reflexion (IR)](../../project/10_project_reflection.md)	|
 |	06/01	|	P: IR	|		|		|
-|	06/02	|	LX: PA (extra-cred)	|		|		|
+|	06/02	|	LX: PA (extra-cred)	|	[VIDEO](https://canvas.uw.edu/files/106879003/)	|		|
 |	---		| 	---		    |	---			|	---			|
 |**WEEK 11**											|
 |	06/06	|		|		|	DUE: [IR!!!](https://canvas.uw.edu/courses/1633262/assignments/8177003)	|
