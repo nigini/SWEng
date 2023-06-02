@@ -22,6 +22,9 @@ particular), and how they can be used to model programs, prove program propertie
    want more background. However, you should be able to do most of this exercise
    with targeted queries as opposed to reading the entirety of it.
 
+6. Considering we are using 8-bit integers, you will likely want to check [this page](https://microsoft.github.io/z3guide/docs/theories/Bitvectors/) with the bit-vector operations.
+
+
 ## Instructions
 The [`in-class-z3.zip`](in-class-z3.zip)
 archive contains four folders (three pairs and one set of programs).
