@@ -143,6 +143,7 @@ Our code can be found on [GitHub](https://github.com/Zanderthegreat12/UW-Roomie)
   - Colby Smith
   - Alexander Vlashev
   - Bella McQuade
+  - Leah Robison
 
 ## WorkoutHolic
 
