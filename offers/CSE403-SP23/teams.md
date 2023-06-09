@@ -130,7 +130,18 @@ Our code can be found on [Gitlab](https://gitlab.cs.washington.edu/cm03/project0
 ## RCRS: Resilient Course Registration System
 
 ## Region Attack
+Region Attack is a strategical two-player board game based on math and logic!
+Our code can be found on [GitHub]((https://github.com/oagenoagemono/CSE403-SP23-RegionAttack))!
 
+### Who we are
+
+  - [Leander Diaz-Bone]
+  - [Yanick Schimpf](https://www.linkedin.com/in/yanick-schimpf-a7924a251/)
+  - [Member name 3](https://myhomepage.me)
+  - [Member name 4](https://myhomepage.me)
+  - [Member name 5](https://myhomepage.me)
+
+**--- MODEL ---**
 ## ReWrite
 
 ## UW Roomie
