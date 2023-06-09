@@ -33,6 +33,16 @@ Our code can be found on [GitHub](https://github.com/DreamRealitii/ASmartMusicRe
   - [Member name 3](https://github.com/)
   - [Member name 4](https://github.com/)
 
+This is the one phrase that describes your project the best: Sound Analysis!
+Our code can be found on [GitHub](https://github.com/DreamRealitii/ASmartMusicRecommender)!
+
+### Who we are
+
+  - [Ethan Carnahan](https://github.com/DreamRealitii)
+  - [Arnav Srinivasan](https://github.com/asrini30)
+  - [Eric Kumar](https://github.com/Ekumar3)
+  - [Gursameep Singh Sandhu](https://github.com/Gsandhu2)
+
 ## BeatBuddy
 
 Music visualization and recommendations at the tips of your fingers!
